@@ -1,0 +1,10 @@
+C:\Users\laowai\source\repos\webview_1\webview_1\bin\Debug\webview_1.exe.config
+C:\Users\laowai\source\repos\webview_1\webview_1\bin\Debug\webview_1.exe
+C:\Users\laowai\source\repos\webview_1\webview_1\bin\Debug\webview_1.pdb
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.csprojAssemblyReference.cache
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.Form1.resources
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.Properties.Resources.resources
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.csproj.GenerateResource.cache
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.csproj.CoreCompileInputs.cache
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.exe
+C:\Users\laowai\source\repos\webview_1\webview_1\obj\Debug\webview_1.pdb
