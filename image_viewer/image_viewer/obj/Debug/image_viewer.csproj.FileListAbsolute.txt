@@ -1,0 +1,14 @@
+C:\Users\laowai\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.exe.config
+C:\Users\laowai\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.exe
+C:\Users\laowai\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.pdb
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.csprojAssemblyReference.cache
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.Form1.resources
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.Properties.Resources.resources
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.csproj.GenerateResource.cache
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.csproj.CoreCompileInputs.cache
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.exe
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.pdb
+C:\Users\laowai\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.exe.manifest
+C:\Users\laowai\source\repos\image_viewer\image_viewer\bin\Debug\image_viewer.application
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.exe.manifest
+C:\Users\laowai\source\repos\image_viewer\image_viewer\obj\Debug\image_viewer.application
