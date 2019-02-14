@@ -1,0 +1,14 @@
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\bin\Debug\view_my_own_advertisements.exe.config
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\bin\Debug\view_my_own_advertisements.exe
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\bin\Debug\view_my_own_advertisements.pdb
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.Form1.resources
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.Properties.Resources.resources
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.csproj.GenerateResource.cache
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.csproj.CoreCompileInputs.cache
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.exe
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.pdb
+c:\users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.csprojAssemblyReference.cache
+C:\Users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\bin\Debug\save_and_read_text_file.exe
+C:\Users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\bin\Debug\save_and_read_text_file.pdb
+C:\Users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\bin\Debug\save_and_read_text_file.exe.config
+C:\Users\laowai\source\repos\view_my_own_advertisements\view_my_own_advertisements\obj\Debug\view_my_own_advertisements.csproj.CopyComplete
