@@ -54,5 +54,10 @@ namespace webview_1
         {
             webBrowser1.Navigate(textBox1.Text);
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("working");
+        }
     }
 }
