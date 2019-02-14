@@ -1,0 +1,10 @@
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\bin\Debug\save_and_read_text_file.exe.config
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\bin\Debug\save_and_read_text_file.exe
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\bin\Debug\save_and_read_text_file.pdb
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.csprojAssemblyReference.cache
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.Form1.resources
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.Properties.Resources.resources
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.csproj.GenerateResource.cache
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.csproj.CoreCompileInputs.cache
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.exe
+C:\Users\laowai\source\repos\save_and_read_text_file\save_and_read_text_file\obj\Debug\save_and_read_text_file.pdb
