@@ -14,11 +14,12 @@ using System.Windows.Forms;
 
 namespace save_and_read_text_file
 {
-    public partial class Form1 : Form
+    public partial class Form_settings : Form
     {
-        public Form1()
+        public Form_settings()
         {
             InitializeComponent();
+            this.TopMost = true;
         }
 
         //Strings
@@ -42,9 +43,8 @@ namespace save_and_read_text_file
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            //button1.Text = "111";
-            //button2.Text = "222";
-            //button3.Text = "aaa";
+            //parse.PerformClick();
+            parse_Click(sender, e);
         }
         
         private void but_open_folder_Click(object sender, EventArgs e)
@@ -88,11 +88,7 @@ namespace save_and_read_text_file
             textBox2.Text = readText;
         }
 
-        String dir_1 = "dir_1 dir_1";
-        String dir_2 = "dir_1 dir_2";
-        String dir_3 = "dir_1 dir_3";
-        String dir_4 = "dir_1 dir_4";
-
+        
         private void parse_Click(object sender, EventArgs e)
         {
             //puts it all into an array
@@ -174,7 +170,7 @@ namespace save_and_read_text_file
             //}
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void but_save_Click(object sender, EventArgs e)
         {
             write_to_file();
         }
@@ -211,6 +207,11 @@ namespace save_and_read_text_file
             txt_arr_7.Text = "0/7=" + my_rnd.Next(1, 1000000);
             txt_arr_8.Text = "0/8=" + my_rnd.Next(1, 1000000);
             txt_arr_9.Text = "0/9=" + my_rnd.Next(1, 1000000);
+        }
+
+        private void Form_settings_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            MessageBox.Show("Refres main page to update settings");
         }
     }
 
