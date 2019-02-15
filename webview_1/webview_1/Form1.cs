@@ -57,7 +57,27 @@ namespace webview_1
 
         private void button5_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("working");
+            timer1.Enabled = true;
+        }
+
+        int global_counter = 0;
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            global_counter++;
+            label_main_timer.Text = ""+global_counter;
+        }
+
+        private void but_stop_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+        }
+
+        Boolean user_check = true;
+        private void label4_Click(object sender, EventArgs e)
+        {
+            user_check = !user_check;
+            if (user_check == true) { txt_user.Text = "doug"; }
+            if (user_check == false) { txt_user.Text = "rahim"; }
         }
     }
 }
